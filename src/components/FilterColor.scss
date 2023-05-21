@@ -1,0 +1,13 @@
+.by-color {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  // margin-bottom: 30px;
+}
+.color-specter {
+  cursor: pointer;
+  
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
